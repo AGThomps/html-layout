@@ -1,0 +1,34 @@
+html,body {
+	height: 100%;
+width: 100%; 
+margin: 0px;
+}
+
+body {
+	background-color:white;
+	}
+.boxtop {
+	width: 1200px; 
+height: 200px;
+ margin: 0px;
+background-color:#403939
+}
+.boxbottom {margin: -150px 200px 0px 200px;
+background-color: black; 
+width: 800px;
+height: 150px;
+z-index: -20;
+}
+.boxleft { 
+	margin: 0px 0px 0px 0px;
+background-color: lightgray; 
+width: 200px;
+height: 1500px;
+z-index: 100;
+}
+.boxright {margin: -1500px 0px 0px 1000px;
+background-color: lightgray; 
+width: 200px;
+height: 1500px;
+z-index: 100;
+}
