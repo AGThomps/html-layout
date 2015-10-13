@@ -8,30 +8,36 @@ padding: 0;
 	background-color:white;
 	height: 300px;
 	width: 100%;
-		 text-align: center;
+	text-align: center;
 }
-.yellowbox {width: 100%; 
+.yellowbox {
+	width: 100%; 
 height: 125px;
  background-color: #F6E518;
 }
-.greenbox {width: 100%; 
+.greenbox {
+	width: 100%; 
 height: 125px;
  background-color: #A2DA6E;
 }
- .tealbox {width: 100%; 
+ .tealbox {
+	 width: 100%; 
 height: 125px;
  background-color: #46E0B5;
  }
- .blueboxbig {width: 100%; 
+ .blueboxbig {
+	 width: 100%; 
 height: 125px;
  background-color: #3C7BDA;
  }
- .greybox {width: 100%; 
+ .greybox {
+	 width: 100%; 
 height: 125px;
  background-color: #CFCFCF;
   position: relative;
  }
- .blueboxlittle {width: 100px; 
+ .blueboxlittle {
+	 width: 100px; 
 height: 100px;
  background-color: #3C7BDA;
   position: absolute;
